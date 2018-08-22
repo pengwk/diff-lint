@@ -10,9 +10,8 @@
 
 ## diff 格式
 
-#### 一图
-
 ![](./diff.jpg)
+
 - [阮一峰：读懂 diff](http://www.ruanyifeng.com/blog/2012/08/how_to_read_diff.html)
 
 ## 获取本次提交的 diff
